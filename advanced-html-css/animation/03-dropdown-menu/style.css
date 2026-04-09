@@ -9,6 +9,7 @@
 }
 
 .menu-title {
+  User-select: none;
   background-color: rgb(163, 162, 162);
 }
 
